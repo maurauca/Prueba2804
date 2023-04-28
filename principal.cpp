@@ -18,7 +18,7 @@ int main()
 
     do
     {
-        cout << "=================Menu==============" << endl;
+        cout << "=================Menu===============" << endl;
         cout << "Seleccione una opcion:" << endl;
         cout << "1. Registrar ventas de recarga" << endl;
         cout << "2. Mostrar el total de las ventas de recarga" << endl;

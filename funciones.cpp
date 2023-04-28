@@ -10,13 +10,9 @@ Maura Quintanilla*/
 #include <math.h>
 using namespace std;
 
-
-
 void registrarVentas(float &total, float &totalTigo, float &totalClaro);
 void mostrarTotal(float total);
 void mostrarDetalle(float totalTigo, float totalClaro);
-
-
 
 void registrarVentas(float &total, float &totalTigo, float &totalClaro)
 {
